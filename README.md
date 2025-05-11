@@ -17,10 +17,3 @@ Sou estudante dedicado ao aprendizado contínuo e ao desenvolvimento de soluçõ
 - **Ferramentas:** Git, Visual Studio Code, Figma  
 - **Idiomas:** Português (nativo), Inglês (fluente)
 
-## Projetos  
-- 📁 [Meu Portfólio](https://github.com/bieldiesil/bieldiesil.github.io)  
-- 🚀 [Exemplo de Projeto](https://github.com/bieldiesil/exemplo-projeto)
-
----
-
-Se precisar de mais alterações ou quiser destacar algum projeto específico, posso ajudar! 😊
