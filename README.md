@@ -1,22 +1,26 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Gabriel Lucas | Portfólio</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <main>
-    <h1>Gabriel Lucas</h1>
-    <p>Programador | Bootcamp 2025</p>
+# Gabriel Lucas | Portfólio
 
-    <section class="links">
-      <a href="https://github.com/bieldiesil" target="_blank">GitHub</a>
-      <a href="https://www.linkedin.com/in/gabriel-lucas-1" target="_blank">LinkedIn</a>
-      <a href="mailto:seu.email@exemplo.com">Email</a>
-      <a href="projetos.html">Projetos</a>
-    </section>
-  </main>
-</body>
-</html>
+Estudante de Engenharia de Software  
+💻 Apaixonado por desenvolvimento e tecnologia  
+🌐 Fluente em inglês
+
+## Contato  
+📧 [gabriel.landrade@sempreceub.com](mailto:gabriel.landrade@sempreceub.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-lucas-470929340/)  
+📂 [GitHub](https://github.com/bieldiesil)
+
+## Sobre Mim  
+Sou estudante dedicado ao aprendizado contínuo e ao desenvolvimento de soluções criativas utilizando tecnologia. Tenho interesse em desenvolvimento web, design responsivo e metodologias ágeis. Sempre busco novos desafios para crescer pessoal e profissionalmente.
+
+## Habilidades  
+- **Linguagens:** HTML, CSS, JavaScript  
+- **Ferramentas:** Git, Visual Studio Code, Figma  
+- **Idiomas:** Português (nativo), Inglês (fluente)
+
+## Projetos  
+- 📁 [Meu Portfólio](https://github.com/bieldiesil/bieldiesil.github.io)  
+- 🚀 [Exemplo de Projeto](https://github.com/bieldiesil/exemplo-projeto)
+
+---
+
+Se precisar de mais alterações ou quiser destacar algum projeto específico, posso ajudar! 😊
